@@ -1,5 +1,5 @@
 # AI-FINANCE-ADVISOR
-# FinAI - AI Studio App
+# FinAI - AI Studio App 
 
 This contains everything you need to run your app locally.
 
